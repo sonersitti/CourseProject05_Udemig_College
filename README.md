@@ -1,4 +1,4 @@
-<h1>  UDEMIG College Project </h1>
+<h1>  Udemig College Project </h1>
 
 CourseProject04_UdemigCollege<br>
 Developer Course Projects
